@@ -84,6 +84,8 @@ SOURCE=csv bash scripts/run_spark.sh
 ## 4. Build the dashboard
 Open `docs/DASHBOARD_SPEC.md`. Import the four CSVs from `output/` into Power BI.
 Power BI Desktop runs only on Windows. On a Mac use Power BI on the web (app.powerbi.com) -> Create -> upload the CSV files, or use a Windows lab PC.
+<img width="1216" height="621" alt="Screenshot 2026-10-05 at 2 12 10 PM" src="https://github.com/user-attachments/assets/159eb399-ee6c-4e69-83c3-71b5fd9e46af" />
+
 
 ## How the segments are decided
 | Score | How it is calculated |
